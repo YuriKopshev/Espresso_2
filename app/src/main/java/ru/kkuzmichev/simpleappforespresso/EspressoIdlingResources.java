@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.kkuzmichev.simpleappforespresso;
 
 import androidx.test.espresso.idling.CountingIdlingResource;
 

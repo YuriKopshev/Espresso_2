@@ -20,6 +20,7 @@ import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 
+import ru.kkuzmichev.simpleappforespresso.EspressoIdlingResources;
 import ru.kkuzmichev.simpleappforespresso.MainActivity;
 import ru.kkuzmichev.simpleappforespresso.R;
 
